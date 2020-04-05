@@ -14,7 +14,7 @@ jupyter:
 ---
 
 # Name(s)
-**PUT YOUR FULL NAME(S) HERE**
+Anand Rajiv
 
 
 **Instructions:** This is an individual assignment. Complete the following code and push to get your score.
@@ -23,6 +23,7 @@ jupyter:
 I am providing the autograder answers locally so you may test your code before pushing. I will be reviewing your submissions, and if I find you are circumventing the autograder in any manner, you will receive a 0 on this assignment and your case will be reported to the honor board for review. i.e., approach the assignment in a genuine manner and you have nothing to worry about.
 
 ```python
+
 ```
 
 **Question 1.**
@@ -47,9 +48,7 @@ def question_1(answer):
 ```
 
 ```python
-# YOUR SOLUTION HERE
-# Sample incorrect answer
-answer_question_1 = lambda: question_1("Z")
+answer_question_1 = lambda: question_1("C")
 ```
 
 **Question 2.**
@@ -70,9 +69,7 @@ def question_2(answer):
 ```
 
 ```python
-# YOUR SOLUTION HERE
-# Sample incorrect answer
-answer_question_2 = lambda: question_2("Z")
+answer_question_2 = lambda: question_2("C")
 ```
 
 **Question 3.**
@@ -92,9 +89,7 @@ def question_3(answer):
 ```
 
 ```python
-# YOUR SOLUTION HERE
-# Sample incorrect answer
-answer_question_3 = lambda: question_3("Z")
+answer_question_3 = lambda: question_3("A")
 ```
 
 **Question 4.**
@@ -115,9 +110,7 @@ def question_4(answer):
 ```
 
 ```python
-# YOUR SOLUTION HERE
-# Sample incorrect answer
-answer_question_4 = lambda: question_4("Z")
+answer_question_4 = lambda: question_4("C")
 ```
 
 **Question 5.**
@@ -139,7 +132,7 @@ def question_5(answer):
 ```python
 # YOUR SOLUTION HERE
 # Sample incorrect answer
-answer_question_5 = lambda: question_5("Z")
+answer_question_5 = lambda: question_5("A")
 ```
 
 ```python
